@@ -1,0 +1,7 @@
+id,sights,latitude,longitude,open_time_start,open_time_end,spend_time
+1,Statue of Liberty,40.689249,-74.0445,9:30,15:30,3
+2,The Metropolitan Museum of Art,40.779437,-73.963244,10:00,21:00,4
+3,Times Square,40.759011,-73.9844722,0:00,23:59,2.5
+4,Central Park,40.7828647,-73.9653551,6:00,23:59,4
+5,Empire State Building,40.7484405,-73.9856644,8:00,23:59,2
+6,Fifth Avenue,36.1314583,-95.9664237,0:00,23:59,2
